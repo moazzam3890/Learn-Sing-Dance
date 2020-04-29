@@ -1,7 +1,9 @@
+#[allow(unused_imports)]
 use std::time::Duration;
 use futures::executor::block_on;
-use std::thread;
 #[allow(unused_imports)]
+use std::thread;
+
 
 fn main() {
     block_on(async_main());
