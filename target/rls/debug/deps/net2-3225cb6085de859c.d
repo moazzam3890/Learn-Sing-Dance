@@ -1,0 +1,13 @@
+/home/moazzam/Desktop/IOT/IOT Class-20191223T183434Z-001/IOT Class/Quarter 3/Coding/Learn-Sing-Dance/learn_sing_dance/target/rls/debug/deps/net2-3225cb6085de859c.rmeta: /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/lib.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/tcp.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/udp.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/socket.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/ext.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/utils.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/mod.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/impls.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/unix.rs
+
+/home/moazzam/Desktop/IOT/IOT Class-20191223T183434Z-001/IOT Class/Quarter 3/Coding/Learn-Sing-Dance/learn_sing_dance/target/rls/debug/deps/net2-3225cb6085de859c.d: /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/lib.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/tcp.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/udp.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/socket.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/ext.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/utils.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/mod.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/impls.rs /home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/unix.rs
+
+/home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/lib.rs:
+/home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/tcp.rs:
+/home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/udp.rs:
+/home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/socket.rs:
+/home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/ext.rs:
+/home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/utils.rs:
+/home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/mod.rs:
+/home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/impls.rs:
+/home/moazzam/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/unix.rs:
